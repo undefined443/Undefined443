@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Li Xiao
-- 👀 I’m interested in generative modeling
+- 👋 Hi, I’m Xiao Li
+- 👀 I’m interested in Diffusion Language Models and Agent Memory
 - 📫 How to reach me: xiaoli3397@gmail.com
-- 🎓 I'm a gradulate student at Sun Yat-sen University
+- 🎓 M.Eng. in Computer Technology, Sun Yat-sen University (2024–2027)
+- 🎓 B.Eng. in Software Engineering, Xidian University (2020–2024)
